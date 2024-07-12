@@ -3,13 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Laravel Primi Passi</title>
+    <title>Laravel Forum</title>
 </head>
 <body>
-    <a href="/forum">FORUM</a>
-    <a href="/store">STORE</a>
-    <h1>
-        FUNGE
-    </h1>
+    <a href="/">Return to Home Page</a>
+    <h1>QUESTO &Egrave; IL FORUM</h1>
 </body>
 </html>
